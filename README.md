@@ -1,5 +1,5 @@
 # bmi
-Title: BMI calculator Live: 
+Title: BMI calculator Live:  https://thappasarns.github.io/bmi/
 
 Table of Contents
 General Info
